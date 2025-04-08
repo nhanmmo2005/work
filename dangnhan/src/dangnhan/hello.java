@@ -4,7 +4,7 @@ public class hello {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("Hello . XIn chao ban");
+System.out.println("Hello . XIn chao ban. Test tiep nha");
 	}
 
 }
